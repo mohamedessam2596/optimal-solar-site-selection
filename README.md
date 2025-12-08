@@ -1,4 +1,4 @@
-# Egyptian Weather Data Engineering & Analytics Platform #
+# A Data-Driven Framework for Optimal Solar Site Selection #
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)
