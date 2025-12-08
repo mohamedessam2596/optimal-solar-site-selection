@@ -1,6 +1,6 @@
 # Makefile for Egypt Weather Streaming Pipeline
 # Works on Linux, macOS, and Windows (with make installed)
-
+ 
 .PHONY: help setup build up down logs clean restart status
 
 # Default target
