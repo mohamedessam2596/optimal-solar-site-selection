@@ -374,5 +374,5 @@ with DAG(
             'SNOWFLAKE_ROLE': os.getenv('SNOWFLAKE_ROLE'),
         },
     )
-    
+    # flow
     upload_new_files >> check_files >> load_data >> dbt_silver >> dbt_gold >> dbt_test
