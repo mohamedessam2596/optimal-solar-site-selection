@@ -1,4 +1,4 @@
-"""
+""" 
 Partition Strategy for Egyptian Governorates
 
 Divides 27 governorates into 3 partitions based on geographic regions:
