@@ -1,6 +1,6 @@
 -- Initialize TimescaleDB extension and create schema for weather data
 -- This script runs automatically when the database container starts
-
+ 
 -- Enable TimescaleDB extension
 CREATE EXTENSION IF NOT EXISTS timescaledb CASCADE;
 
