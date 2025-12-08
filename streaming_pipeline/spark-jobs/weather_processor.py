@@ -1,6 +1,6 @@
 """
 Spark Streaming Job: Process Egypt weather data from Kafka and write to TimescaleDB
-
+ 
 This job:
 1. Reads weather data from Kafka topic (3 partitions)
 2. Parses and transforms the flattened data structure
