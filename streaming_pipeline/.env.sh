@@ -1,6 +1,6 @@
 # OpenWeather API Configuration
 OPENWEATHER_API_KEY=your_api_key_here
-
+ 
 # Kafka Configuration
 KAFKA_BOOTSTRAP_SERVERS=kafka:29092
 KAFKA_TOPIC=egypt_weather_raw
