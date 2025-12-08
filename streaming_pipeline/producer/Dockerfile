@@ -1,5 +1,5 @@
 FROM python:3.11-slim
-
+ 
 LABEL maintainer="Weather Pipeline Team"
 LABEL description="Kafka Producer for Egypt Weather Data"
 
