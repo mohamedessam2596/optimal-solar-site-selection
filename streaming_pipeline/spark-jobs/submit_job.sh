@@ -1,5 +1,5 @@
 #!/bin/bash
-
+ 
 # Spark Job Submission Script for Weather Processing
 # Works on both Linux and Windows (Git Bash/WSL)
 
