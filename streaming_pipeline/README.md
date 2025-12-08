@@ -1,4 +1,4 @@
-# Egypt Weather Streaming Pipeline
+# Egypt Weather Streaming Pipeline 
 
 A production-ready, end-to-end streaming data pipeline for real-time weather monitoring across all 27 Egyptian governorates with Kafka UI management via Conduktor Console.
 
